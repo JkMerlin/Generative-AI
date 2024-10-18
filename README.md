@@ -9,8 +9,8 @@ The tasks assigned to you are as follows:
 
 1. There might be a few duplicate entries and a few missing values in the dataset. Data cleaning will be a part of the assignment.
 2. You must perform exploratory data analysis to draw keen insights on the data and determine the effect of different features on the price. Some specific requests by the client include:
-a. Identify the number of sales for each fuel type
-b. Identify which transmission type has more price outliers
+    a.Identify the number of sales for each fuel type
+    b.Identify which transmission type has more price outliers
 3. Compare the models with linear, polynomial, and ridge regressions on single and multiple variables to find the best-performing model
 4. Perform a Grid Search on the Ridge regression model to identify the optimum hyperparameter of the model for best performance.
 ## About the data set
